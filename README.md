@@ -22,7 +22,7 @@ There is also a the [updates-and-fixes](https://github.com/jonasschmedtmann/ulti
 
 **A:** Sure! Here you go:
 
-- [Pizza Menu](https://fast-react-pizza-menu.netlify.app/) (Components, props, JSX)
+- [Pizza Menu](https://fast-react-pizza-menu-gusdepaula.netlify.app/) (Components, props, JSX)
 - [Travel List](https://travel-list-jonas.netlify.app/) (useState and state management)
 - [Eat-n-split](https://eat-n-split.netlify.app/) (Practice project)
 - [usePopcorn](https://usepopcorn.netlify.app) (useEffect, data fetching, custom hooks)
