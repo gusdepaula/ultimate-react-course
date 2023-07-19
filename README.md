@@ -28,7 +28,7 @@
 - [Eat-n-split](https://eat-n-split-gusdepaula.netlify.app/) (Practice project)
 - [usePopcorn](https://usepopcorn-gusdepaula.netlify.app) (useEffect, data fetching, custom hooks)
 - [Classy weather](https://classy-weather-gusdepaula.netlify.app/) (Class components)
-<!-- - [Quiz App](https://the-react-quiz.netlify.app/) (useReducer)
-- [WorldWise](https://worldwise-jonas.netlify.app/) (React Router, context API, memo, useMemo, useCallback)
+- [Quiz App](https://the-react-quiz-gusdepaula.netlify.app/) (useReducer)
+<!-- - [WorldWise](https://worldwise-jonas.netlify.app/) (React Router, context API, memo, useMemo, useCallback)
 - [Fast React Pizza](https://fast-react-pizza.netlify.app/) (React Router data loading, Redux, Redux Toolkit, thunks, Tailwind CSS)
 - [The Wild Oasis](https://the-wild-oasis.vercel.app) (React Query, Styled Components, React Hook Form, Supabase, advanced compound component pattern, authentication, charts, dark mode, professional application planning and development) -->
