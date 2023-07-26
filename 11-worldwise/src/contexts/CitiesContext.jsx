@@ -1,10 +1,4 @@
-import {
-  createContext,
-  useContext,
-  useEffect,
-  useReducer,
-  useState,
-} from "react";
+import { createContext, useContext, useEffect, useReducer } from "react";
 const BASE_URL = "http://localhost:9000";
 
 const CitiesContext = createContext();
@@ -46,7 +40,7 @@ function reducer(state, action) {
 }
 
 function CitiesProvider({ children }) {
-  const [{ cities, isLoading, currentCity }, dispatch] = useReducer(
+  const [{ cities, isLoading, error, currentCity }, dispatch] = useReducer(
     reducer,
     initialState
   );
