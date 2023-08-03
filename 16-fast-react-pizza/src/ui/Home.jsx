@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <div className="text-center text-xl font-semibold text-stone-700">
+    <div className="text-center text-xl font-semibold">
       <h1>
         The best pizza.
         <br />
