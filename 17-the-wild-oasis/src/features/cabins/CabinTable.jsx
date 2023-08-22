@@ -33,7 +33,7 @@ function CabinTable() {
     isLoading,
     data: cabins,
     error,
-  } = useQuery({ queryKey: ["cabin"], queryFn: getCabins });
+  } = useQuery({ queryKey: ["cabins"], queryFn: getCabins });
   if (isLoading) return <Spinner />;
   return (
     <Table role="table">
