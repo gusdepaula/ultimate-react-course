@@ -12,7 +12,7 @@ export function useCheckin() {
       updateBooking(bookingId, {
         status: "checked-in",
         isPaid: true,
-        // ...breakfast,
+        ...breakfast,
       }),
 
     onSuccess: (data) => {
