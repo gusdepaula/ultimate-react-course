@@ -31,4 +31,4 @@
 - [Quiz App](https://the-react-quiz-gusdepaula.netlify.app/) (useReducer)
 - [WorldWise](https://worldwise-gusdepaula.netlify.app/) (React Router, context API, memo, useMemo, useCallback)
 - [Fast React Pizza](https://fast-react-pizza-gusdepaula.netlify.app/) (React Router data loading, Redux, Redux Toolkit, thunks, Tailwind CSS)
-<!-- - [The Wild Oasis](https://the-wild-oasis.vercel.app) (React Query, Styled Components, React Hook Form, Supabase, advanced compound component pattern, authentication, charts, dark mode, professional application planning and development) -->
+- [The Wild Oasis](https://the-wild-oasis-gusdepaula.netlify.app/) (React Query, Styled Components, React Hook Form, Supabase, advanced compound component pattern, authentication, charts, dark mode, professional application planning and development)
